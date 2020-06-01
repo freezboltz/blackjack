@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/ZSLGncB)
+![alt text]([url=https://ibb.co/ZSLGncB][img]https://i.ibb.co/ZSLGncB/blackjack-logo.png[/img][/url])
 
 # blackjack
 
