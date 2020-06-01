@@ -1,17 +1,11 @@
 ![alt text](https://img.techpowerup.org/200601/blackjack-logo.png)
 
-# blackjack
-
 This is a casino game popularly known as 21 or blackjack.
 A simple python3 program
 
 ## Game Rules
 
-#####################
-
 # BLACKJACK Game
-
-#####################
 
 Rules:
 
@@ -41,5 +35,7 @@ Rules:
 - POWER OF ACE
   - By default ace is considered as 11 point
   - But if your card value count is over 21 then ace will be considered as 1 to save you from bust.
+
+[Visit wikipedia for more information on Blackjack](https://en.wikipedia.org/wiki/Blackjack)
 
 # END
