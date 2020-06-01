@@ -178,5 +178,12 @@ def game():
             play_again()
 
 
+def play_game():
+    try:
+        game()
+    except IndexError:
+        print("Deck is empty Table is closed. See you soon till then bye bye!")
+
+
 if __name__ == "__main__":
-    game()
+    play_game()
